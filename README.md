@@ -6,7 +6,7 @@
 
 ##### 4. To reproduce our result, simply run command ``python3 inference_loaded.py`` of [full_pretrained_project](https://drive.google.com/drive/folders/1VhFvOHDQcTV7_gJ5BhAqccG4otRWIdLY?usp=sharing) which will use the already trained models. In this version, we also show that with our joint inference schema, AWD_LSTM itself can work suffciiently well and replace the entity composite model. Also note that we used nltk tokenizer while annotationg the types in this version. So it is slightly different from our current release. 
 
-##### 5. The corresponding data are in awd-lstm-lm/data folder in link shared above.
+##### 5. The corresponding data are in awd-lstm-lm/data folder in the link shared above.
 
 ##### 6. The uncleaned datasets are also relesead for future challenge (can be found in awd-lstm-lm/recipies/data/corpus in the google drive path shared above)
 
